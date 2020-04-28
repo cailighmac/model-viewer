@@ -1,0 +1,19 @@
+commit cf238155061be56053cafb353382842b8eb62dc1
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Apr 28 14:07:56 2020 -0700
+
+    replaced preload with loading (#1159)
+    
+    * replaced preload with loading
+    
+    * added reveal=manual
+    
+    * update docs
+    
+    * Reverted Edge 81 to 80
+    
+    * reenabling test platforms
+    
+    * disable Edge 80 only
+    
+    * reenable all testing platforms
